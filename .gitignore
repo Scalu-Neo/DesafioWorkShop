@@ -1,0 +1,18 @@
+# Arquivos de configuração específicos do sistema
+*.pyc
+__pycache__
+
+# Ambiente Virtual
+myenv/
+
+# Arquivo de banco de dados SQLite
+db.sqlite3
+
+# Arquivos de mídia (gerados por usuários)
+media/
+
+# Arquivos de configuração locais
+*.env
+
+# Arquivos temporários
+*.log
